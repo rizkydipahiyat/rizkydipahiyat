@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **ReactJs | MERN Stack**
 
-- 📫 How to reach me **rizkydipahiyat76@gmail.com**
-
 - ⚡ Fun fact **I am a student**
 
 <h3 align="left">Connect with me:</h3>
