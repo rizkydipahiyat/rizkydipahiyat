@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizky Dipahiyat Alghipari</h1>
 <h3 align="center">Interested in Web Development from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkydipahiyat&label=Profile%20views&color=0e75b6&style=flat" alt="rizkydipahiyat" /> </p>
 
 - 🌱 I’m currently learning **React.js | Tailwind CSS | Bootstrap | Express.js | Node.js | Sequelize | MongoDB | Laravel**
 
@@ -19,4 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkydipahiyat&show_icons=true&locale=en&layout=compact" alt="rizkydipahiyat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkydipahiyat&" alt="rizkydipahiyat" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkydipahiyat&" alt="rizkydipahiyat" /></p>
