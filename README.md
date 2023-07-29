@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizkydipahiyat&show_icons=true&locale=en&layout=compact" alt="rizkydipahiyat" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkydipahiyat&show_icons=true&locale=en" alt="rizkydipahiyat" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizkydipahiyat&" alt="rizkydipahiyat" /></p>
